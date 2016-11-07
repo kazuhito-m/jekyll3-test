@@ -28,6 +28,10 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
   - jekyll-feed
 exclude:
   - Gemfile
